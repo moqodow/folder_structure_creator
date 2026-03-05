@@ -1,3 +1,27 @@
+# 🚨 REPOSITORY MOVED
+
+This project has migrated to **Codeberg** for better alignment with open-source values.
+
+## 👉 New Location: [codeberg.org/moqodow/folder_structure_creator](https://codeberg.org/moqodow/folder_structure_creator)
+
+**This GitHub repository is archived and read-only.**
+
+**Update your git remote:**
+```bash
+git remote set-url origin https://codeberg.org/moqodow/folder_structure_creator.git
+```
+---
+
+<div align="center">
+
+**Supporting truly open-source infrastructure** 🚀
+
+[![Codeberg](https://img.shields.io/badge/Hosted%20on-Codeberg-2185D0?style=for-the-badge)](https://codeberg.org/moqodow)
+
+</div>
+
+---
+
 # Folder Structure Creator
 
 ## About
